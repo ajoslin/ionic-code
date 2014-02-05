@@ -206,6 +206,33 @@
  "versions": [
   {
    "files": [
+    "/0.9.23-alpha/ionic-0.9.23-alpha.zip",
+    "/0.9.23-alpha/ionic-v0.9.23-alpha.zip",
+    "/0.9.23-alpha/version.txt",
+    "/0.9.23-alpha/css/ionic.css",
+    "/0.9.23-alpha/css/ionic.min.css",
+    "/0.9.23-alpha/fonts/ionicons.eot",
+    "/0.9.23-alpha/fonts/ionicons.svg",
+    "/0.9.23-alpha/fonts/ionicons.ttf",
+    "/0.9.23-alpha/fonts/ionicons.woff",
+    "/0.9.23-alpha/js/ionic-angular.js",
+    "/0.9.23-alpha/js/ionic-angular.min.js",
+    "/0.9.23-alpha/js/ionic.js",
+    "/0.9.23-alpha/js/ionic.min.js",
+    "/0.9.23-alpha/js/angular/angular-animate.js",
+    "/0.9.23-alpha/js/angular/angular-animate.min.js",
+    "/0.9.23-alpha/js/angular/angular-sanitize.js",
+    "/0.9.23-alpha/js/angular/angular-sanitize.min.js",
+    "/0.9.23-alpha/js/angular/angular.js",
+    "/0.9.23-alpha/js/angular/angular.min.js",
+    "/0.9.23-alpha/js/angular-ui/angular-ui-router.js",
+    "/0.9.23-alpha/js/angular-ui/angular-ui-router.min.js"
+   ],
+   "id": "v0_9_23_alpha",
+   "version_number": "0.9.23-alpha"
+  },
+  {
+   "files": [
     "/0.9.22/ionic-v0.9.22.zip",
     "/0.9.22/css/ionic.css",
     "/0.9.22/css/ionic.min.css",
