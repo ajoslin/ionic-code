@@ -532,7 +532,7 @@
   {
    "files": [
     "/nightly/ionic-nightly.zip",
-    "/nightly/version.txt",
+    "/nightly/version.json",
     "/nightly/css/ionic.css",
     "/nightly/css/ionic.min.css",
     "/nightly/fonts/ionicons.eot",
@@ -541,10 +541,14 @@
     "/nightly/fonts/ionicons.woff",
     "/nightly/js/ionic-angular.js",
     "/nightly/js/ionic-angular.min.js",
+    "/nightly/js/ionic.bundle.js",
+    "/nightly/js/ionic.bundle.min.js",
     "/nightly/js/ionic.js",
     "/nightly/js/ionic.min.js",
     "/nightly/js/angular/angular-animate.js",
     "/nightly/js/angular/angular-animate.min.js",
+    "/nightly/js/angular/angular-resource.js",
+    "/nightly/js/angular/angular-resource.min.js",
     "/nightly/js/angular/angular-sanitize.js",
     "/nightly/js/angular/angular-sanitize.min.js",
     "/nightly/js/angular/angular.js",
