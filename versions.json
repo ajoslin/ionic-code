@@ -206,6 +206,36 @@
  "versions": [
   {
    "files": [
+    "/1.0.0-beta.6/ionic-v1.0.0-beta.6.zip",
+    "/1.0.0-beta.6/version.json",
+    "/1.0.0-beta.6/css/ionic.css",
+    "/1.0.0-beta.6/css/ionic.min.css",
+    "/1.0.0-beta.6/fonts/ionicons.eot",
+    "/1.0.0-beta.6/fonts/ionicons.svg",
+    "/1.0.0-beta.6/fonts/ionicons.ttf",
+    "/1.0.0-beta.6/fonts/ionicons.woff",
+    "/1.0.0-beta.6/js/ionic-angular.js",
+    "/1.0.0-beta.6/js/ionic-angular.min.js",
+    "/1.0.0-beta.6/js/ionic.bundle.js",
+    "/1.0.0-beta.6/js/ionic.bundle.min.js",
+    "/1.0.0-beta.6/js/ionic.js",
+    "/1.0.0-beta.6/js/ionic.min.js",
+    "/1.0.0-beta.6/js/angular/angular-animate.js",
+    "/1.0.0-beta.6/js/angular/angular-animate.min.js",
+    "/1.0.0-beta.6/js/angular/angular-resource.js",
+    "/1.0.0-beta.6/js/angular/angular-resource.min.js",
+    "/1.0.0-beta.6/js/angular/angular-sanitize.js",
+    "/1.0.0-beta.6/js/angular/angular-sanitize.min.js",
+    "/1.0.0-beta.6/js/angular/angular.js",
+    "/1.0.0-beta.6/js/angular/angular.min.js",
+    "/1.0.0-beta.6/js/angular-ui/angular-ui-router.js",
+    "/1.0.0-beta.6/js/angular-ui/angular-ui-router.min.js"
+   ],
+   "id": "v1_0_0_beta_6",
+   "version_number": "1.0.0-beta.6"
+  },
+  {
+   "files": [
     "/1.0.0-beta.5b/ionic-v1.0.0-beta.5b.zip",
     "/1.0.0-beta.5b/version.json",
     "/1.0.0-beta.5b/css/ionic.css",
